@@ -14,6 +14,11 @@ body {
     transition: 1s ease;
 }
 
+
+::selection {
+    background: #FD793F;
+}
+
 /* Start Header  */
 
 
